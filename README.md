@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Web Development**
 
-- 💬 Ask me about **Frontned Development**
+- 💬 Ask me about **Frontend Development**
 
 - 📫 How to reach me **prashantbhatt488@gmail.com**
 
